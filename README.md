@@ -1,7 +1,6 @@
 **Quelques notes sur certaines utilisation du Flipper Zero pas forcément très documentées**
 
-
-#U2F
+# U2F
 
 ## udev
 Un ajout de règle udev est nécessaire pour faire fonctionner u2f correctement :

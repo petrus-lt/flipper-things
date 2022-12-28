@@ -75,6 +75,7 @@ Pilotage des 8 ports du relay board [Sainsmart](https://www.sainsmart.com/produc
 ```
 
 Depuis l'appli on peut vérifier que si le PCF8574 est bien sur 0x20 comme par défaut, et envoyer les commandes pour piloter les relais individuellement.
-
-0x00 : Tous les relais allumés
-0xff : Tous les relais éteints
+| Valeur | Signification |
+| ----------- | ----------- |
+| 0x00 | Tous les relais allumés |
+| 0xff | Tous les relais éteints |
